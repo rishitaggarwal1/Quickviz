@@ -11,4 +11,8 @@ Key Features
 ✅ Export Data in One Click – Download filtered data as PDF reports instantly.
 ✅ Fast Data Processing – Optimized for speed using Next.js, Apollo GraphQL, and MongoDB.
 ✅ User Authentication – Secure access with NextAuth.js for personalized dashboards.
-✅ Open-Source & Extensible – Built to be customized and expanded by contributors. 
+<<<<<<< HEAD
+✅ Open-Source & Extensible – Built to be customized and expanded by contributors.
+=======
+✅ Open-Source & Extensible – Built to be customized and expanded by contributors.
+>>>>>>> 329ddf155c9fbae5dad009a4274fbd5c4dd2813d
