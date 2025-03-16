@@ -13,6 +13,11 @@ Key Features
 ✅ User Authentication – Secure access with NextAuth.js for personalized dashboards.
 ✅ Open-Source & Extensible – Built to be customized and expanded by contributors.
 
+## Requirments
+Run below command for installation of all the packages
+```bash
+npm i axios bcryptjs jsonwebtoken nodemailer react-hot-toast mongoose
+```
 
 ## Getting Started
 
